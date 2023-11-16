@@ -1,0 +1,3 @@
+com\Validaton\SpringValidation\SpringValidationApplication.class
+com\Validaton\SpringValidation\entities\LoginData.class
+com\Validaton\SpringValidation\controller\MyController.class
